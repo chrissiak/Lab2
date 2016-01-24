@@ -26,7 +26,7 @@ public class Lab2 {
 
 	   long numKitsPerCat = (long) 7;
 
-	   byte total;
+	   double total;
 
 	// If the original man is going to St. Ives, then all are going
 	// the narrator, original man, kitten, cats, sacks, wives.
@@ -48,6 +48,10 @@ public class Lab2 {
 	// "Number going to St. Ives is " and then, on the same line,
 	// the number going to St. Ives (stored in the _total_ variable).
 	// Add a statement or statements that will do this.
+
+    System.out.println("Number going to St. Ives is " + total);
+
+
 	
     }
     
